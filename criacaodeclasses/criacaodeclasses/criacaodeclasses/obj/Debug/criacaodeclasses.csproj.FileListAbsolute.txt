@@ -1,0 +1,13 @@
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\bin\Debug\criacaodeclasses.exe.config
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\bin\Debug\criacaodeclasses.exe
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\bin\Debug\criacaodeclasses.pdb
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.csproj.AssemblyReference.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.Form1.resources
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.Form2.resources
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.Form3.resources
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.Properties.Resources.resources
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.csproj.GenerateResource.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.exe
+C:\Users\yasmi\OneDrive\Área de Trabalho\ETEC\nivia\projetos\criacaodeclasses\criacaodeclasses\obj\Debug\criacaodeclasses.pdb
